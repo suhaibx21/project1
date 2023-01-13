@@ -1,0 +1,33 @@
+C:\Users\hikar\source\repos\tourism office app\tourism office app\bin\Debug\tourism office app.exe.config
+C:\Users\hikar\source\repos\tourism office app\tourism office app\bin\Debug\tourism office app.exe
+C:\Users\hikar\source\repos\tourism office app\tourism office app\bin\Debug\tourism office app.pdb
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.AssemblyReference.cache
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Form1.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Properties.Resources.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.GenerateResource.cache
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.CoreCompileInputs.cache
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism office app.exe
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism office app.pdb
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmUserProfile.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmBestHottels.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmNewTrip.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmOffers.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.GUI.frmChangePersonalData.resources
+C:\Users\hikar\source\repos\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.GUI.frmChangePaymentMethod.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\bin\Debug\tourism office app.exe.config
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\bin\Debug\tourism office app.exe
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\bin\Debug\tourism office app.pdb
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.AssemblyReference.cache
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Form1.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Properties.Resources.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmBestHottels.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.GUI.frmChangePaymentMethod.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.GUI.frmChangePersonalData.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmNewTrip.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmOffers.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.frmUserProfile.resources
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.GenerateResource.cache
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism office app.csproj.CoreCompileInputs.cache
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism office app.exe
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism office app.pdb
+C:\Users\hikar\OneDrive\tourism office app\tourism office app\obj\Debug\tourism_office_app.Resources.GUI.frmLastTrips.resources
